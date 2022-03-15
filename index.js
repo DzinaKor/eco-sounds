@@ -1,6 +1,3 @@
-alert("Переключение play/pause по навигации по птицам. Дополнительный функционал: муравей замирает по паузе и его можно захватить и перетаскивать мышкой")
-
-
 const player = document.querySelector('.player');
 const play = document.querySelector('.play');
 const sound = document.getElementById('sound');
